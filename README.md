@@ -7,9 +7,9 @@ Business Analytics graduate interested in Business Analysis, ERP, Business Intel
 ### Inspector Weeds
 AI-powered weed detection and treatment planning system for oil palm plantations using DeepLabV3+, Python, PHP, MySQL, and dashboard analytics.
 
+- [▶ Watch Demo](YOUR-DEMO-LINK)
 - [Website Repository](https://github.com/maisarvvv-h/inspector-weeds-website)
 - [Model Development Repository](https://github.com/maisarvvv-h/inspector-weeds-model-development)
-- [▶ Watch Demo](YOUR-DEMO-LINK)
 
 ## Tools & Technologies
 
