@@ -20,6 +20,6 @@ Interactive Tableau dashboards analysing historical expedition data, operational
 
 Python • SQL • Tableau • Power BI • Excel • PHP • MySQL • Git
 
-## lets connect 
+## Let's Connect 
 
 - [LinkedIn](https://www.linkedin.com/in/maisara-harris-5a9680295)
